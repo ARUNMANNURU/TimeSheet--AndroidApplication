@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/drawable/vert_toggle_on.9.png",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/vert_toggle_on.9.png"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/drawable/widget_bg_normal.9.png",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/widget_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/drawable/ic_media_next.png",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/ic_media_next.png"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/drawable/vert_toggle_off.9.png",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/vert_toggle_off.9.png"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/drawable/clock.png",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/clock.png"
+    }
+]

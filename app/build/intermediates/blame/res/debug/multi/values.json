@@ -1,0 +1,266 @@
+[
+    {
+        "outputFile": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endLine": 34,
+                        "endColumn": 19,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 523
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1498,
+                        "endLine": 43,
+                        "endColumn": 19,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 528,
+                    "endColumn": 46,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 57,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 57,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endLine": 38,
+                    "endColumn": 13,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endLine": 25,
+                        "endColumn": 13,
+                        "endOffset": 1238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 56,
+                    "endOffset": 1480
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 56,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1485,
+                    "endColumn": 52,
+                    "endOffset": 1533
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1538,
+                    "endColumn": 54,
+                    "endOffset": 1588
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 54,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1593,
+                    "endColumn": 62,
+                    "endOffset": 1651
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 62,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1656,
+                    "endColumn": 59,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 59,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 2087
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2092,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 2235
+                },
+                "from": {
+                    "file": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 198
+                    }
+                }
+            }
+        ]
+    }
+]

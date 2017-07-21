@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/xml/timesheet_widget_info.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/xml/timesheet_widget_info.xml"
+    }
+]

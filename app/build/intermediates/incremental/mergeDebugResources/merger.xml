@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res"/><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/generated/res/rs/debug"/><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res"><file name="clock" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/clock.png" qualifiers="" type="drawable"/><file name="ic_media_next" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/ic_media_next.png" qualifiers="" type="drawable"/><file name="vert_toggle_off" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/vert_toggle_off.9.png" qualifiers="" type="drawable"/><file name="vert_toggle_on" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/vert_toggle_on.9.png" qualifiers="" type="drawable"/><file name="widget_bg_normal" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/drawable/widget_bg_normal.9.png" qualifiers="" type="drawable"/><file name="app_widget" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/app_widget.xml" qualifiers="" type="layout"/><file name="entries" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/entries.xml" qualifiers="" type="layout"/><file name="export" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/export.xml" qualifiers="" type="layout"/><file name="header" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/header.xml" qualifiers="" type="layout"/><file name="main" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="task_edit" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/task_edit.xml" qualifiers="" type="layout"/><file name="time_entry" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/time_entry.xml" qualifiers="" type="layout"/><file name="time_entry_edit" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/time_entry_edit.xml" qualifiers="" type="layout"/><file name="week_entry" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/week_entry.xml" qualifiers="" type="layout"/><file path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/strings.xml" qualifiers=""><string name="help_summary">
+        \n<b>Welcome to Timesheet!</b>\n\n
+        To start, add some tasks to Timesheet.
+        Tasks can be billable tasks such as "Project Documentation" or
+        unbillable tasks such as "Lunch".  Use the "Add Task" menu 
+        option to add a task.\n
+        \n
+        After tasks have been added, click on a task to select it as
+        the current task.  The checkbox shows which task you are 
+        currently working on.  Selecting a new task will close out
+        the current one and start the new task.  Selecting the 
+        current task will close it out without starting a new one.\n
+        \n
+        To get a report of hours, use the "Time List" menu option to
+        get a report of time by day or by week.\n
+        \n
+    </string><string name="time_list_activity">Time Entries</string><string name="time_edit_activity">Time Entry Edit</string><string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array><string name="app_name">Timesheet</string><string-array name="days_index">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array><string name="export_activity">Export to CSV</string><string name="task_list_activity">Tasks</string><string name="task_edit_activity">Edit Task</string><string name="task_prompt">Select a Task:</string></file><file path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/values/styles.xml" qualifiers=""><style name="CustomTheme" parent="@android:style/Theme">
+        <item name="android:tabWidgetStyle">@style/CustomTabWidget</item>
+    </style><style name="CustomTabWidgetText" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="CustomTabWidget" parent="@android:style/Widget.TabWidget">
+        <item name="android:textAppearance">@style/CustomTabWidgetText</item>
+    </style></file><file name="preferences" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/xml/preferences.xml" qualifiers="" type="xml"/><file name="timesheet_widget_info" path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/xml/timesheet_widget_info.xml" qualifiers="" type="xml"/></source><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/generated/res/rs/debug"/><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/debug/res"/></dataSet><mergedItems/></merger>

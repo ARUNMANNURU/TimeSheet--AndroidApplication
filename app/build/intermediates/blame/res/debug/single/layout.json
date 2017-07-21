@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/task_edit.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/task_edit.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/entries.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/entries.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/week_entry.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/week_entry.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/export.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/export.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/time_entry_edit.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/time_entry_edit.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/app_widget.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/app_widget.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/time_entry.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/time_entry.xml"
+    },
+    {
+        "merged": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/ArunMannuru/FarbinderAndroid/Today/timesheet-master/app/src/main/res/layout/main.xml"
+    }
+]
